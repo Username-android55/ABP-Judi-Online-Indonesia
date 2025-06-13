@@ -1,0 +1,50 @@
+! Title: ABP Judi Online Indonesia
+! Description: Daftar Blokir Regional Situs Web Judi Online Berbahasa Indonesia Berbasis AdBlock Plus (ABP)
+! Homepage:
+! Syntax: AdBlock Plus
+! Version: 1.0.2
+
+||legacyfarmerville.com^
+||lsftz.pages.dev^
+||lsftz.org^
+||wartaekspor.com^
+||republica.laplata.gob.ar^
+||sip777.it.com^
+||dora77in.wiki^
+||lpm.iainkendari.ac.id^
+||kunjir.rajabasa.id^
+||smadarulhikam.sch.id^
+||randuputih.desa.id^
+||garuda77slot.com^
+||semarangkota.go.id^
+||mahasiswa.jakstik.ac.id^
+||bbp3kp.com^
+||bkd.tapselkab.go.id^
+||kendari.go.id^
+||jombangkab.go.id^
+||cjebmjs.pages.dev^
+||desaantosari.id^
+||ciloto.pages.dev^
+||79783b3606fb44378e38928454de4e1d.r2.dev^
+||fkipundwi.pages.dev^
+||uinmataram.pages.dev^
+||trucosville.net^
+||heylink.me/taribett^
+||dispursip.kalteng.go.id^
+||bujanglapokkk.xyz^
+||gf467gc783tgc8348c3487.pages.dev^
+||t.ly/senimanhebat^
+||wis77bos.com^
+||kokonnu.com^
+||skelas.org^
+||paham4d.net^
+||taruna-alquran.com^
+||pmptsp.pages.dev^
+||sipatokong.pages.dev^
+||musimsemi.shop^
+||pumpkinslot123.xyz^
+||jpku88.pages.dev^
+||link.jpkitanih.site^
+||gf467gc783tgc8348c3487.pages.dev^
+||engineeringplay.xyz
+! End. Mohon bantuannya ya di GitHub
