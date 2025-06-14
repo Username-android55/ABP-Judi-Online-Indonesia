@@ -1,7 +1,10 @@
-# ABP-Judi-Online-Indonesia
-Daftar Situs Web Judi Online Indonesia Berbasis ABP
-
-Daftar filter regional situs web judi online berbahasa Indonesia. Daftar ini akan memblokir judi online yang saya cari melalui Google Search dan membuatnya di aplikasi RS Manager di ponsel android saya
+# Penjelasan ABP-Judi-Online-Indonesia
+Daftar filter ini adalah daftar filter regional Indonesia yang berfokus pada pemblokiran iklan judi online. Ini mencakup hasil mesin telusur ataupun domain didalamnya
 
 # Cara menggunakan daftar filter
-Sebagai contoh, saya menggunakan 
+- Buka browser kesayangan anda yang mendukung ekstensi browser (Kiwi Browser, Google Chrome, dll)
+- Install uBlock Origin di toko ekstensi anda
+- Buka uBlock Origin > dasbor > daftar filter > impor > masukan [ABP Judi Online Indonesia](https://raw.githubusercontent.com/Username-android55/ABP-Judi-Online-Indonesia/refs/heads/main/judol.txt) dan klik "terapkan perubahan"
+
+# Peringatan
+Tidak semua judi online dapat diblokir karena mereka dapat bertumbuh dengan domain baru walaupun sudah diblokir sekalipun. Berhati-hati dalam penggunaan daftar filter karena beberapa situs web mungkin terganggu akibat pemblokiran daftar filter. Daftar filter ini masih tahap pengembangan dan belum semuanya diblokir
