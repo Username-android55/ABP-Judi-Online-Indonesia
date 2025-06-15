@@ -1,6 +1,6 @@
 ! Title: CasinoID (ABP)
 ! Description: Daftar Blokir Regional Situs Web Kasino Dan Sejenisnya Berbahasa Indonesia
-! Homepage: https://github.com/Username-android55/ABP-Judi-Online-Indonesia
+! Homepage: https://github.com/Username-android55/CasinoID
 ! Syntax: AdBlock Plus
 ! Version: 1.0.2-Demo
 
