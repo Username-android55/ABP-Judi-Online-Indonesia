@@ -1,5 +1,5 @@
-! Title: ABP Judi Online Indonesia
-! Description: Daftar Blokir Regional Situs Web Judi Online Berbahasa Indonesia Berbasis AdBlock Plus (ABP)
+! Title: CasinoID (ABP)
+! Description: Daftar Blokir Regional Situs Web Kasino Dan Sejenisnya Berbahasa Indonesia
 ! Homepage: https://github.com/Username-android55/ABP-Judi-Online-Indonesia
 ! Syntax: AdBlock Plus
 ! Version: 1.0.2-Demo
